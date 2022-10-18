@@ -1,0 +1,22 @@
+{
+   "person1" : {
+      "name" : "bob",
+      "favfood" : "pizza",
+      "hobby" : "music",
+      "id": 1
+   },
+
+   "person2" : {
+      "name" : "john",
+      "favfood" : "pasta",
+      "hobby" : "gaming",
+      "id": 2
+   },
+
+   "person3" : {
+      "name" : "joe",
+      "favfood" : "chicken",
+      "hobby" : "coding",
+      "id": 3
+   }
+}
